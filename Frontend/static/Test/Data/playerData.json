@@ -1,0 +1,10 @@
+{
+    "health": 1,
+    "damage": 5,
+    "dodge": 3,
+    "multipliers": {
+        "Red": 1,
+        "Blue": 1,
+        "Green": 1
+    }
+}
